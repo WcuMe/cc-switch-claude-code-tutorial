@@ -2,26 +2,22 @@
 
 本目录用于存放 cc switch 配置教程所需的截图。
 
-## 所需截图列表
+## 截图列表
 
 | 文件名 | 描述 | 状态 |
 |--------|------|------|
-| `logo.png` | cc switch Logo | ⬜ 待添加 |
-| `01-install-macos.png` | macOS 安装界面 | ⬜ 待添加 |
-| `02-install-windows.png` | Windows 安装界面 | ⬜ 待添加 |
-| `03-install-linux.png` | Linux 安装界面 | ⬜ 待添加 |
-| `04-launch-ccswitch.png` | 启动 cc switch | ⬜ 待添加 |
-| `05-select-claude.png` | 选择 Claude 工具 | ⬜ 待添加 |
-| `06-add-provider.png` | 添加 Provider | ⬜ 待添加 |
-| `07-config-fields.png` | 配置信息填写 | ⬜ 待添加 |
-| `08-save-config.png` | 保存配置 | ⬜ 待添加 |
-| `09-activate-provider.png` | 激活 Provider | ⬜ 待添加 |
-| `10-verify-connection.png` | 验证连接 | ⬜ 待添加 |
-| `11-mcp-management.png` | MCP 管理界面 | ⬜ 待添加 |
-| `12-multi-tool.png` | 多工具切换 | ⬜ 待添加 |
+| `01-main-interface.png` | cc switch 主界面 | ✅ 已完成 |
+| `02-custom-tab.png` | Custom 标签页 | ✅ 已完成 |
+| `03-add-provider-dialog.png` | 添加 Provider 对话框 | ✅ 已完成 |
+| `04-filled-name.png` | 填写 Provider 名称 | ✅ 已完成 |
+| `05-filled-website.png` | 填写 Website URL | ✅ 已完成 |
+| `06-filled-apikey.png` | 填写 API Key | ✅ 已完成 |
+| `07-filled-requesturl.png` | 填写 Request URL | ✅ 已完成 |
+| `08-config-complete.png` | 完整配置示例 | ✅ 已完成 |
+| `09-after-save.png` | 保存后界面 | ✅ 已完成 |
+| `10-provider-in-list.png` | Provider 已添加到列表 | ✅ 已完成 |
+| `11-use-provider.png` | 激活 Provider | ✅ 已完成 |
+| `12-codex-interface.png` | Codex 工具界面 | ✅ 已完成 |
+| `13-settings-interface.png` | 设置界面 | ✅ 已完成 |
 
-## 截图要求
-
-- 格式：PNG 或 JPEG
-- 推荐尺寸：1280x800 或更大
-- 请使用有实际内容的截图，不要空占位
+所有截图均使用 macOS 系统实际截取，展示了完整的 cc switch 配置流程。

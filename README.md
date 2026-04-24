@@ -128,79 +128,66 @@ chmod +x CC-Switch-*.AppImage
 
 ### 1. 主界面
 
-![01-main-interface](screenshots/01-main-interface.png)
 
 cc switch 主界面，左侧显示支持的 AI 编程工具：Claude、Codex、Gemini、OpenCode、OpenClaw。
 
 ### 2. Custom 标签
 
-![02-custom-tab](screenshots/02-custom-tab.png)
 
 切换到 Custom 标签，可以添加自定义 API 提供商。
 
 ### 3. 添加 Provider 对话框
 
-![03-add-provider-dialog](screenshots/03-add-provider-dialog.png)
 
 点击 + 按钮后打开的添加 Provider 对话框。
 
 ### 4. 填写 Provider 名称
 
-![04-filled-name](screenshots/04-filled-name.png)
 
 在 Provider Name 字段中输入名称。
 
 ### 5. 填写 Website URL
 
-![05-filled-website](screenshots/05-filled-website.png)
 
 填写 API 提供商的网站地址。
 
 ### 6. 填写 API Key
 
-![06-filled-apikey](screenshots/06-filled-apikey.png)
 
 输入您的 API 密钥。
 
 ### 7. 填写 Request URL
 
-![07-filled-requesturl](screenshots/07-filled-requesturl.png)
 
 填写 API 请求地址。
 
 ### 8. 完整配置示例
 
-![08-config-complete](screenshots/08-config-complete.png)
 
 完整的配置示例，包含 Provider Info 和 API Configuration。
 
 ### 9. 保存后界面
 
-![09-after-save](screenshots/09-after-save.png)
 
 保存配置后，对话框关闭。
 
 ### 10. Provider 已添加到列表
 
-![10-provider-in-list](screenshots/10-provider-in-list.png)
 
 tutorial-provider 已成功添加到 Custom Provider 列表中。
 
 ### 11. 激活 Provider
 
-![11-use-provider](screenshots/11-use-provider.png)
 
 点击 Use 按钮激活 Provider，界面显示 "tutorial-provider is now active"。
 
 ### 12. Codex 工具界面
 
-![12-codex-interface](screenshots/12-codex-interface.png)
 
 cc switch 同时支持配置 OpenAI Codex 等其他 AI 编程工具。
 
 ### 13. 设置界面
 
-![13-settings-interface](screenshots/13-settings-interface.png)
 
 Settings 界面可以配置隐藏菜单栏图标、开机自启、自动更新等功能。
 
